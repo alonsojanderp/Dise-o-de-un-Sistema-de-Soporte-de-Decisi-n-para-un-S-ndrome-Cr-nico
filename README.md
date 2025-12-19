@@ -26,10 +26,9 @@ Este proyecto integra conceptos de **Validación**, **Modelos Complejos** y **Ap
 - `fenotipado_y_prediccion.py`
 - `requirements.txt`
 - `synthetic_fenotypes_dataset.csv`
-- `pca_pc1_pc2_severidad.png`
-- `roc_curve_random_forest.png`
+![PCA](figures/pca_pc1_pc2_severidad.png)
+![ROC](figures/roc_curve_random_forest.png)
 
-> Nota: Las imágenes están en la **raíz** del repo (por eso las rutas son directas).
 
 ---
 
