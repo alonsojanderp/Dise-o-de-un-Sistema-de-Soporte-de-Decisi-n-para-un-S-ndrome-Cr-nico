@@ -1,6 +1,3 @@
-Diseño de un Sistema de Soporte de Decisión para un Síndrome Crónico
-
-[README.md](https://github.com/user-attachments/files/24259370/README.md)
 
 # Fenotipado y Predicción de Severidad
 
